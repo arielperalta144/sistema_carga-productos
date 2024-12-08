@@ -8,7 +8,7 @@ Caracteristicas
 •	Gestión de Proveedores : Agregar y listar proveedores de productos.
 •	Interfaz Gráfica : Interfaz gráfica intuitiva y elegante para una mejor experiencia de usuario.
 Requisitos
-•	Python 3.2
+•	Python 3.2 
 •	SQLite (incluido con Python)
 •	Tkinter (incluido con Python)
 Instalación
